@@ -27,6 +27,12 @@ section {
     color: ghostwhite;
     text-align: center;
 }
+section li {
+    text-align: left;
+    font-size: 24px;
+    font-family: Georgia;
+    padding: 5px;
+}
 aside {
     float: left;
     width: 80%;
